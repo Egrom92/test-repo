@@ -1,5 +1,2 @@
-console.log('test');
-console.log('test');
-console.log('test');
-console.log('test');
-console.log('test');
+const x = 'test';
+const s = 's';
